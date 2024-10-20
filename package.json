@@ -1,0 +1,11 @@
+{
+    "name": "solar-system",
+    "version": "1.0.0",
+    "scripts": {
+      "build": "tailwindcss -i ./input.css -o ./output.css"
+    },
+    "dependencies": {
+      "tailwindcss": "^2.2.19"
+    }
+  }
+  
